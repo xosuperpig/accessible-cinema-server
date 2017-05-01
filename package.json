@@ -1,0 +1,18 @@
+{
+  "name": "accessible-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "es6-promisify": "^5.0.0",
+    "koa": "^2.2.0",
+    "koa-router": "^7.1.1",
+    "mongoose": "^4.9.7"
+  }
+}
